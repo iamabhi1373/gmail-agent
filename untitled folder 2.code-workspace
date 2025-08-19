@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/vosk-model-en-us-0.42-gigaspeech"
+		}
+	],
+	"settings": {}
+}
