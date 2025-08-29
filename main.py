@@ -191,7 +191,7 @@ if __name__ == "__main__":
         
         # Send an email
         success = agent.send_email(
-            to_email="sachan.addya@gmail.com",
+            to_email="",
             prompt="write a email to my loved ones saying sorry and cute message telling her she is the most beautiful and amazing girl i met.",
             context="write a email to my loved ones"
         )
